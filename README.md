@@ -7,3 +7,4 @@ Description: OmnitolPlayer1.json is a character from GTA V Mod, I only used for 
 Movie I used that character:
 OmnitolPlayer1.json (Rockstar Editor)
 Infiltrating the Casino & Resort - OmnitolPlayer1.json II
+](https://github.com/Leprekis/OmnitolPlayer1-/releases/download/OMPL1GTAMod/OmnitolPlayer1_Release_LeprekisOfficial.zip)
