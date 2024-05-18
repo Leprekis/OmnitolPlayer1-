@@ -1,0 +1,87 @@
+{
+    "accessory": {
+        "drawable": -1,
+        "texture": 0
+    },
+    "armor": {
+        "drawable": 2,
+        "texture": 0
+    },
+    "badge": 0,
+    "bag": {
+        "drawable": 0,
+        "texture": 0
+    },
+    "blush": {
+        "color": 0,
+        "enabled": false,
+        "opacity": 0.0,
+        "type": 0
+    },
+    "bracelet": {
+        "drawable": 0,
+        "enabled": false,
+        "texture": 0
+    },
+    "ear": {
+        "drawable": 0,
+        "enabled": false,
+        "texture": 0
+    },
+    "eyecolor": 0,
+    "glasses": {
+        "drawable": 25,
+        "enabled": true,
+        "texture": 4
+    },
+    "hair": {
+        "color": 0,
+        "highlight": 0,
+        "style": 1
+    },
+    "hat": {
+        "drawable": 2,
+        "enabled": true,
+        "texture": 1
+    },
+    "leg": {
+        "drawable": 10,
+        "texture": 0
+    },
+    "lipstick": {
+        "color": 0,
+        "enabled": false,
+        "opacity": 0.0,
+        "type": 0
+    },
+    "makeup": {
+        "color": 0,
+        "enabled": false,
+        "opacity": 0.0,
+        "type": 0
+    },
+    "mask": {
+        "drawable": 35,
+        "texture": 0
+    },
+    "shoe": {
+        "drawable": 24,
+        "texture": 0
+    },
+    "torso": {
+        "drawable": 17
+    },
+    "torso2": {
+        "drawable": 349,
+        "texture": 3
+    },
+    "undershirt": {
+        "drawable": 0,
+        "texture": 0
+    },
+    "watch": {
+        "drawable": 0,
+        "enabled": false,
+        "texture": 0
+    }
+}

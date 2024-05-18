@@ -1,0 +1,131 @@
+{
+    "aging": {
+        "age": 16,
+        "enabled": true
+    },
+    "beard": {
+        "color": 0,
+        "enabled": false,
+        "type": 0
+    },
+    "blemish": {
+        "enabled": false,
+        "type": 0
+    },
+    "blush": {
+        "color": 0,
+        "enabled": false,
+        "opacity": 0.0,
+        "type": 0
+    },
+    "chesthair": {
+        "color": 0,
+        "enabled": false,
+        "type": 0
+    },
+    "complexion": {
+        "enabled": false,
+        "type": 0
+    },
+    "eyebrows": {
+        "color": 0,
+        "enabled": false,
+        "type": 0
+    },
+    "features": {
+        "cheekbone_height": -1.0,
+        "cheekbone_width": -1.0,
+        "cheeks_width": -1.0,
+        "chin_hole": -0.7000000476837158,
+        "chinbone_length": -0.9000000953674316,
+        "chinbone_lowering": -1.0,
+        "chinbone_width": -1.0,
+        "eyebrow_forward": 0.10000000149011612,
+        "eyebrow_height": -0.10000000149011612,
+        "eyes_opening": 0.0,
+        "jawbone_back_length": -1.0,
+        "jawbone_width": -1.0,
+        "lips_thickness": 0.10000000149011612,
+        "neck_thickness": -0.7000000476837158,
+        "nose_bone_height": 0.0,
+        "nose_bone_twist": 0.0,
+        "nose_peak_height": 0.0,
+        "nose_peak_length": 0.0,
+        "nose_peak_lowering": 0.0,
+        "nose_width": 0.0,
+        "shape_father": 0,
+        "shape_mix": 0.5,
+        "shape_mother": 21,
+        "skin_father": 0,
+        "skin_mix": 0.5,
+        "skin_mother": 0
+    },
+    "hair": {
+        "color": 0,
+        "highlight": 0,
+        "style": 1
+    },
+    "lipstick": {
+        "color": 0,
+        "enabled": false,
+        "opacity": 0.0,
+        "type": 0
+    },
+    "makeup": {
+        "color": 0,
+        "enabled": false,
+        "opacity": 0.0,
+        "type": 0
+    },
+    "model": 1885233650,
+    "molesfreckles": {
+        "enabled": false,
+        "type": 0
+    },
+    "style": {
+        "faceExpression": 0,
+        "walkingStyle": 0
+    },
+    "sundamage": {
+        "enabled": true,
+        "type": 5
+    },
+    "tattoos": {
+        "head": {
+            "collection": 0,
+            "overlay": 0,
+            "update_group": "",
+            "zone": ""
+        },
+        "leftArm": {
+            "collection": 0,
+            "overlay": 0,
+            "update_group": "",
+            "zone": ""
+        },
+        "leftLeg": {
+            "collection": 0,
+            "overlay": 0,
+            "update_group": "",
+            "zone": ""
+        },
+        "rightArm": {
+            "collection": 0,
+            "overlay": 0,
+            "update_group": "",
+            "zone": ""
+        },
+        "rightLeg": {
+            "collection": 0,
+            "overlay": 0,
+            "update_group": "",
+            "zone": ""
+        },
+        "torso": {
+            "collection": 0,
+            "overlay": 0,
+            "update_group": "",
+            "zone": ""
+        }
+    }
+}
